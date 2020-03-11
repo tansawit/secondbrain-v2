@@ -5,6 +5,7 @@ tags:
 - a16z
 - design
 - software
+image: /images/game-design-principle-superhuman/featured.jpg
 ---
 
 Making business software and interacting with it less like work, and more like play with game design. Talk by Rahul Vohra, founder and CEO of [Superhuman](https://superhuman.com).
