@@ -1,5 +1,5 @@
 ---
-title: "a16z: Superhuman's Founder Rahul Vohra on How to Move Beyond Gamification"
+title: "Superhuman's Founder Rahul Vohra on How to Move Beyond Gamification"
 date: 2020-03-10T16:05:44+07:00
 tags:
 - a16z
