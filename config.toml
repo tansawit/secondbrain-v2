@@ -2,7 +2,7 @@ baseurl = "https://notes.tansawit.me"
 languageCode = "en"
 title = "My Note Log"
 theme = "kiss"
-copyright = "&copy; <a href=\"https://github.com/ribice\">Emir Ribic</a> 2017"
+copyright = "&copy; <a href=\"https://github.com/ribice\">Sawit Trisirisatayawong</a> 2020"
 disqusShortname = "shortname"
 googleAnalytics = ""
 Paginate = 5 # Number of posts per page
