@@ -40,7 +40,7 @@ page = "" # Twitter Page username. If not set, params.social.twitter will be use
 [params.social]
 twitter = "tansawit"
 github = "tansawit"
-email = "tansawit"
+email = "sawit.tr@gmail.com"
 linkedin = "tansawit"
 # facebook = "ribice"
 instagram = ""
