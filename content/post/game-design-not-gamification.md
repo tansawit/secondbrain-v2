@@ -30,7 +30,7 @@ Rewards massively undermines our intrinsic motivation. It is also why gamificati
 
 ### 1. Create Goals that are concrete, achievable, and rewarding
 
-The best games create strong emotions, as emotions are the foundations of our memories.
+> The best games create strong emotions, as emotions are the foundations of our memories.
 
 Add small things to your product to widen your emotional repotoire (e.g. Superhuman showing serene/peaceful/sentimental/inspirational images once you reached inbox zero.)
 
